@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Advanced Agriculture Technology</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header id="header">
+ <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: #046711; font-size: large;font-weight: 700;font-style: normal;"><big>AgriTech</big></p>
+
+
+  <input type="checkbox" id="toggle-menu" role="button">
+  <label for="toggle-menu" class="toggle-menu" >Menu</label>
+
+  <nav id="nav-bar" class="navbar">
+    <ul style="font-size: larger;" class="menu">
+      <li><a class="nav-link" href="#Solutions"><b>Solutions</b></a></li>
+      <li><a class="nav-link" href="#Products"><b>Products</b></a></li>
+      <li><a class="nav-link" href="#about"><b>About</b></a></li>
+      <li><a class="nav-link" href="#contact"><b>contact us</b></a></li>
+    </ul>
+    <ul class="social-menu">
+      <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+      <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+      <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+      <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+    </ul>
+  </nav>
+</header>
+
+
+
+
+<div class="her">
+   <div class="hero-text">
+    <h1><b>Revolutionizing Farming with Technology</b></h1>
+  <p style="color: aliceblue;"><b>Welcome to AgriTech, nice to meet you here.</b></p>
+  <p style="color: aliceblue;"><b>Discover how our innovative solutions increase crop yields and reduce costs</b></p>
+  </div>
+</div>
+
+
+
+<section id="Solutions">
+  <div class="title title-left">
+  </span><h3 style="">Solutions</h3>
+  </div>
+  <div class="wrapper">
+    <div class="image">
+      <img src="images/fetureagri.jpeg" width="400" style="float:right" alt="Advanced Agriculture Technology">
+    </div>
+    <div class="text">
+      <h3 style="color: crimson; background-color: bisque; font-weight: 900;">Advanced Agriculture Solutions</h3>
+      <ol style="color: rgb(62, 2, 2);">
+        <li><b>Drone Technology</b></li>
+        <li><b>Artificial Intelligence</b></li>
+        <li><b>Soil Analysis</b></li>
+        <li><b>Crop Monitoring</b></li>
+        <li><b>Precision Farming</b></li>
+        <li><b>IoT Sensiors</b></li>
+      </ol>
+      <p style="color: aliceblue;"></p>
+      <a href="https://www.cropin.com/smart-farming" class=btn target="_main">Learn More</a>
+    </div>
+  </div>
+</section>
+
+<div class="hero">
+  <div class="hero-img">
+
+      </div>
+
+  <div class="hero-text">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DoVGbPa0jHw?si=ABWTGwsw8kYCUsZ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
+
+<section id="Products">
+  <div class="title title-left">
+   <h3>Advanced Products</h3>
+  </div>
+  <div class="wrapper">
+
+   <div id="box1"> 
+    <h3><u>Robot Farmer</u></h3> <img src="images/robort_farmer.jpeg" height="150px" width="250px" alt="robort_farmer"></div>
+   <p style="color:rgb(62, 2, 2);"><b>The development of self-driving cars is also accelerating on the farm. Self-driving tractors and robots are becoming more common as a way to automatically control the cost of payroll from time to time done by humans. There are robots to choose lettuce and strawberries, grass, oranges, and cut grapes.
+
+    Some are attached to a human-powered tractor while some are highly customizable with sensors and attachments that perform very specific tasks, such as finding out where the cows are pollinated and treating to stimulate the affected grass to grow again. These robots are often guided by precise GPS tracking so they can easily navigate the narrow space between rows of crops.</b></p>
+  
+  
+  <div id="box"2>  
+    <h3><u>soil and crop sensor</u></h3>
+    <img src="images/soil_crop_sensor.jpeg" height="150px" width="250px" alt="soil_crop_sensor"></div>
+  <p style="color:rgb(62, 2, 2);"><b>The development of self-driving cars is also accelerating on the farm. Self-driving tractors and robots are becoming more common as a way to automatically control the cost of payroll from time to time done by humans. There are robots to choose lettuce and strawberries, grass, oranges, and cut grapes.
+
+   Some are attached to a human-powered tractor while some are highly customizable with sensors and attachments that perform very specific tasks, such as finding out where the cows are pollinated and treating to stimulate the affected grass to grow again. These robots are often guided by precise GPS tracking so they can easily navigate the narrow space between rows of crops.</b></p>
+ 
+   <div id="box3"> 
+    <h3><u>automated farming</u></h3> <img src="images/1-1.jpg" height="150px" width="250px" alt="automated_farming">
+  </div>
+   <p style="color:rgb(62, 2, 2);"><b>Drones and robotics advancements have ushered in a new method of farming. Self-navigating harvesting combines, as well as robotic sowing and weeding are now possible because of advances in technology. The farm’s manpower requirements are reduced by automating these repetitive chores. Scheduled irrigation may be as basic as automatic watering or as complex as soil monitoring around specific plants.
+
+    Farm equipment automation is solving the labour deficit and relieving farm workers of stress. Self-driving machines can work around the clock, resulting in higher yields. When physical work is entrusted to equipment, farmers may focus on long-term commercial success through planning and problem-solving.</b></p>
+ </div>
+</section>
+
+<section id="abou">
+  <div class="row">
+
+   <img src="images/agri_benefit.jpeg" height="automatic" alt="agri_benefit" class="img1">
+    <h3><u>Benefits</u></h3>
+    <ul style="color:rgb(62, 2, 2);">
+      <li><b>Increased Efficiency</b></li>
+      <li><b>Improved Yields</b></li>
+      <li><b>Enhanced Sustainability</b></li>
+      <li><b>Reduced Costs</b></li>
+      <li><b>Data-Driven Decision Making</b></li>
+    </ul>
+
+ </div>
+  <div class="row row2">
+    <h4><b>Modern agriculture technology versus India's agricultural practices</b></h4>
+   <img src="images/modern_indian.jpeg" alt="modern_indian">
+   <div>
+   <div style="height: 300px;width: 320px;float: right;"><h4><b>Modern Agriculture Technology:</b></h4>
+    <pre style="font-size: 15px;color:rgb(62, 2, 2);" ><b>Precision Farming <br>Automated Irrigation<br>Vertical Farming<br>Genetically Modified Crops<br>Data Analytics:</b></pre>
+  </div>
+
+   <div style="height: 300px;width: 320px;"><h4><b><br>India's Traditional Agricultural Practices:</b></h4>
+    <pre style="font-size: 15px;color:rgb(62, 2, 2);" ><b>Monsoon-dependent<br>Manual Labor<br>Traditional Crop Varieties<br>Limited Irrigation<br>Limited Access to Technology</b></pre>
+  </div>
+   </div>
+
+  </div>
+
+</section>
+<section id="abou">
+  <div class="row">
+    <h3>Technology Then V/S Now</h3>
+   <img src="images/then_now.jpeg " height="300px" width="500px" alt="agriculture then vs now">
+ </div>
+
+</section>
+
+<section id="about">
+  <div class="title title-left">
+  <h2>About</h2>
+  </div>
+  <div class="wrapper">
+    <div class="text">
+      <h3>Project Overview:</h3>
+      <p style="color:rgb(62, 2, 2);"><b>This landing page showcases the potential of modern agriculture technology in revolutionizing farming practices.</b></p>
+      <h3>My Role:</h3>
+      <p style="color:rgb(62, 2, 2);"><b>Designed by Bhagyashree Swain, a student exploring the intersection of technology and agriculture.</b></p>
+      <h3>Inspiration:</h3>
+      <p style="color:rgb(62, 2, 2);"><b>Inspired by the need to increase crop yields and reduce waste, I created this landing page to highlight the benefits of modern agriculture technology.</b></p>
+    </div>
+  </div>
+  
+</section>
+
+<!-- Contact Section -->
+<section id="contact">
+  <div class="wrapper">
+    <div class="form-wrapper">
+      <h3>Contact us</h3>
+      <form id="form" action="agritech.com/email-submit">
+        <input type="email" id="email" name="email" placeholder="Your email" required>
+        <input type="submit" id="submit" value="OK" class="submit">
+      </form>
+    </div>
+    <div class="contact-wrapper">
+      <h3><br><br><br>Stay In Touch With AgriTech</h3>
+      <div class="wrapper">
+          <a href="https://www.instagram.com" target="_main" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="30"></a>
+          <a href="https://www.linkedin.com" target="_main"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" height="30"</a>
+          <a href="https://www.youtube.com" target="_main"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4N37TIgWC_QLpspNwGddZH8DhzljeYMFnA&s" height="30px  " style="border-radius: 30%;"</a>
+    
+      </div>
+    </div>
+    <div class="copy-wrapper">
+     <p><i> Design by : Bhagyashree</i></p></h6>
+    </div>
+  </div>
+</section>
+</body>
+</html>
